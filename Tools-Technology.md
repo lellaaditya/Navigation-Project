@@ -26,6 +26,12 @@ Vmss
 Vm
 
 Azure Automation Account(Duty Schedule -- Auto start/stop vm/vmss)
+
+# Code Quality Tools
+Blackduck
+
+VeraCode
+
 # Monitoring
 Prometheus
 
@@ -34,5 +40,9 @@ Grafana
 Telegraf
 
 Netdata
+
+# Reporting Tool
+Power Bi
+
 
 PagerDuty
