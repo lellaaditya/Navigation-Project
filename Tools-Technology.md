@@ -41,6 +41,25 @@ Telegraf
 
 Netdata
 
+# Azure Services
+Azure vmss
+
+Azure vm
+
+Storage accounts
+
+Network
+
+Automation Account
+
+Microsoft Entra Id
+
+Azure logic Apps
+
+Database
+
+Key vaults
+
 # Reporting Tool
 Power Bi
 
