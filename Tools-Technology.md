@@ -35,7 +35,7 @@ VeraCode
 # Monitoring
 Prometheus
 
-Grafana
+Grafana(Loki)
 
 Telegraf
 
@@ -59,6 +59,8 @@ Azure logic Apps
 Database
 
 Key vaults
+
+Traffice Manager (End Points)
 
 # Reporting Tool
 Power Bi
